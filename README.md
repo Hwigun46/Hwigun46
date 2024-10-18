@@ -1,5 +1,8 @@
 
-# 輝 健 (굳세게 빛나라)
+# 輝健(휘건) - 굳세게 빛나라
+
+
+
 
 ## stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
