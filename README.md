@@ -1,6 +1,6 @@
 
 <div align="center">
-  <span style="font-size: 72px; font-weight: bold;">輝健(휘건) - 굳세게 빛나라</span>
+  <span style="font-size: 144px; font-weight: bold;">輝健(휘건) - 굳세게 빛나라</span>
 </div>
 
 
