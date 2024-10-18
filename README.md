@@ -1,8 +1,4 @@
-
-<div align="center">
-  <span style="font-size: 144px; font-weight: bold;">輝健(휘건) - 굳세게 빛나라</span>
-</div>
-
+## **輝健(휘건) - 굳세게 빛나라**
 
 ## stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
