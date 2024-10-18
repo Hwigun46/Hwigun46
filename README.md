@@ -1,5 +1,5 @@
 <div> align=center
-# 輝健(휘건) - 굳세게 빛나라
+ 輝健(휘건) - 굳세게 빛나라
 </div>div> align=center
 
 <br>
