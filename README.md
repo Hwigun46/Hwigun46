@@ -1,5 +1,5 @@
 
-<div align="center" style="font-size: 24px;">
+<div align="center" style="font-size: 48px;">
   輝健(휘건) - 굳세게 빛나라
 </div>
 
