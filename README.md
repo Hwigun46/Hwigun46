@@ -1,5 +1,4 @@
-# **輝健(휘건)** - 굳세게 빛나라
-Yoon Ham
+# **Yoon Ham **
 
 ## Experience
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
